@@ -61,3 +61,15 @@ http://127.0.0.1:8000/api/v1/groups/{id}/
 ```
 http://127.0.0.1:8000/api/v1/posts/
 ```
+
+### Использованные технологии:
+
+- [Django](https://www.djangoproject.com/) - фреймворк для веб-разработки на Python.
+
+- [Django REST framework](https://www.django-rest-framework.org/) - библиотека для создания веб-API на основе Django.
+
+- [SQLite3](https://www3.sqlite.org/) - система управления базами данных.
+
+### Контакты:
+
+[Gladia-Torr](https://github.com/Gladia-Torr) - будущий разработчик
